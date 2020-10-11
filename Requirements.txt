@@ -1,0 +1,9 @@
+In order to run this project, following dependencies are required:
+flask
+werkzeug.utils
+opencv
+openpyxl
+ZipFile
+os
+Output
+pytesseract - an executable file needs to be downloaded from github
