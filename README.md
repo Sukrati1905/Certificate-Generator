@@ -1,1 +1,1 @@
-# Certificate-Generator
+Certificate-Generator is an automatic certificate generating app which takes a blank certificate of user's choice and an excel file containing names of the certificate holders as input. It then automatically generates the certificates with certificate holder's name on it and produces a zip file containing all the certificates.
